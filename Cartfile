@@ -1,1 +1,1 @@
-github "Alamofire/Alamofire" ~> 4.9
+github "Svetoslav/Alamofire" "make-buildable-in-xcode-15"
